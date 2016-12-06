@@ -1,4 +1,4 @@
-
+x
 public class Day {
 	private String day;
 	private String[] days = {"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"};
